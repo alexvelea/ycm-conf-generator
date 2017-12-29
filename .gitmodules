@@ -1,0 +1,3 @@
+[submodule "thirdparty/autojson"]
+	path = thirdparty/autojson
+	url = https://github.com/establishment/autojson

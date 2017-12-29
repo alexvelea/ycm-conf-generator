@@ -1,0 +1,12 @@
+.ycm_extra_conf.py
+.ycm_extra_conf.pyc
+.idea/
+
+# cmake stuff
+build
+CMakeCache.txt
+CMakeFiles
+cmake_install.cmake
+compile_commands.json
+install_manifest.txt
+Makefile
