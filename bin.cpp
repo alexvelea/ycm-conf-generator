@@ -112,7 +112,7 @@ void CreateYCMConf(vector<string> commands) {
     "config_file = '/.ycm_extra_conf.py'\n"
     "with open(config_file) as f:\n"
     "    code = compile(f.read(), config_file, 'exec')\n"
-    "        exec(code, globals(), locals())\n"
+    "    exec(code, globals(), locals())\n"
     "BASE_FLAGS += [\n";
         
     for (auto itr : commands) {
